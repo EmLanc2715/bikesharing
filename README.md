@@ -56,16 +56,22 @@ The image above shows the start locations for each user. These are clustered aro
 ![End_Location](https://user-images.githubusercontent.com/101427781/189397720-c6771cab-46e3-42ed-b78e-2b831de4ffce.png)
 
 The image above showing the ending location for each user is similar to the map of starting locations. This is good news for investors, the bikes are staying in the same general locations which will make maintenance easier than if the starting and ending locations were vastly different.
+
 ## Summary
 
-## Additional Visualizations for Future Analysis
+### Additional Visualizations for Future Analysis
+
+Below are two addtional visualizations that can be used for future analysis. 
 
 #### One-Time User Compared to Subscriber
 ![User_Subscriber](https://user-images.githubusercontent.com/101427781/189397754-abf6250d-f4f2-4207-81a5-40a12cff027f.png)
 
+This pie chart shows that around 3/4s of all CitiBike Users are Subscribers. With this information, I would invest in marketing for potential subscribers heavily, compared to marketing for one-time users. The majority of CitiBike revenue comes from its subsrcibers, but in the future, CitiBike should research how to increase their revenue from one-time bikesharers.
 
 #### Best Hours for Bike Maintenance
 ![Maintenance](https://user-images.githubusercontent.com/101427781/189397764-c7f51d1b-99bc-4819-94e6-5c6ac04a94cb.png)
 
+The above bar graph shows the peak and trough hours of usage. Based on this data, I would suggest that the bikes are maintainted between the hours of 1 and 5am.
 
-
+### Conclusion
+In conclusion, CitiBike is very popular in New York City and as of August 2019, there are nearly 2 million subscribers. The number of subscribers would probably be much lower in Des Moines, Iowa, but bikesharing has a lot of potential for cities with a dense population. The user base, subscriber and one-time, are mostly male, which suggests that marketing should be geared toward convincing more women and all genders, to sign up and try bikesharing as opposed to other froms of transportation. The peak hours coorespond when people are going to and from work, this information could be used to target commuters who pay for Ubers or take the subway. CitiBike should focus on how much better for the environment biking is to work, opposed to driving or using ride sharing.
